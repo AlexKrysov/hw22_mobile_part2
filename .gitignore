@@ -37,4 +37,4 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
-*.properties
+
